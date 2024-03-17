@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project test basic HTML
+A practice of making a basic recipe website.
